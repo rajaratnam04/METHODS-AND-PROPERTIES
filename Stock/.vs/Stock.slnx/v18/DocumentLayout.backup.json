@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\JHONJIJMOSES\\Documents\\Programs\\C SHARP\\Stock\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4C441E02-CFF4-4741-BDAD-ADF8B29E3E9C}|Stock\\Stock.csproj|c:\\users\\jhonjijmoses\\documents\\programs\\c sharp\\stock\\stock\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C441E02-CFF4-4741-BDAD-ADF8B29E3E9C}|Stock\\Stock.csproj|solutionrelative:stock\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\JHONJIJMOSES\\Documents\\Programs\\C SHARP\\Stock\\Stock\\Program.cs",
+              "RelativeDocumentMoniker": "Stock\\Program.cs",
+              "ToolTip": "C:\\Users\\JHONJIJMOSES\\Documents\\Programs\\C SHARP\\Stock\\Stock\\Program.cs",
+              "RelativeToolTip": "Stock\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAowBUAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-09T06:04:49.218Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

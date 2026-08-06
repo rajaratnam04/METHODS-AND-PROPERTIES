@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "RandomHelper": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}

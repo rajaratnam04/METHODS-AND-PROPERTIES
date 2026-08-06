@@ -1,0 +1,14 @@
+C:\Users\JHONJIJMOSES\Documents\Programs\C SHARP\RandomHelper\RandomHelper\bin\Debug\net10.0\RandomHelper.exe
+C:\Users\JHONJIJMOSES\Documents\Programs\C SHARP\RandomHelper\RandomHelper\bin\Debug\net10.0\RandomHelper.deps.json
+C:\Users\JHONJIJMOSES\Documents\Programs\C SHARP\RandomHelper\RandomHelper\bin\Debug\net10.0\RandomHelper.runtimeconfig.json
+C:\Users\JHONJIJMOSES\Documents\Programs\C SHARP\RandomHelper\RandomHelper\bin\Debug\net10.0\RandomHelper.dll
+C:\Users\JHONJIJMOSES\Documents\Programs\C SHARP\RandomHelper\RandomHelper\bin\Debug\net10.0\RandomHelper.pdb
+C:\Users\JHONJIJMOSES\Documents\Programs\C SHARP\RandomHelper\RandomHelper\obj\Debug\net10.0\RandomHelper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JHONJIJMOSES\Documents\Programs\C SHARP\RandomHelper\RandomHelper\obj\Debug\net10.0\RandomHelper.AssemblyInfoInputs.cache
+C:\Users\JHONJIJMOSES\Documents\Programs\C SHARP\RandomHelper\RandomHelper\obj\Debug\net10.0\RandomHelper.AssemblyInfo.cs
+C:\Users\JHONJIJMOSES\Documents\Programs\C SHARP\RandomHelper\RandomHelper\obj\Debug\net10.0\RandomHelper.csproj.CoreCompileInputs.cache
+C:\Users\JHONJIJMOSES\Documents\Programs\C SHARP\RandomHelper\RandomHelper\obj\Debug\net10.0\RandomHelper.dll
+C:\Users\JHONJIJMOSES\Documents\Programs\C SHARP\RandomHelper\RandomHelper\obj\Debug\net10.0\refint\RandomHelper.dll
+C:\Users\JHONJIJMOSES\Documents\Programs\C SHARP\RandomHelper\RandomHelper\obj\Debug\net10.0\RandomHelper.pdb
+C:\Users\JHONJIJMOSES\Documents\Programs\C SHARP\RandomHelper\RandomHelper\obj\Debug\net10.0\RandomHelper.genruntimeconfig.cache
+C:\Users\JHONJIJMOSES\Documents\Programs\C SHARP\RandomHelper\RandomHelper\obj\Debug\net10.0\ref\RandomHelper.dll

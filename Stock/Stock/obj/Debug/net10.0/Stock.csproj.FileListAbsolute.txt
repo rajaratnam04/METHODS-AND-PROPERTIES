@@ -1,0 +1,14 @@
+C:\Users\JHONJIJMOSES\Documents\Programs\C SHARP\Stock\Stock\obj\Debug\net10.0\Stock.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JHONJIJMOSES\Documents\Programs\C SHARP\Stock\Stock\obj\Debug\net10.0\Stock.AssemblyInfoInputs.cache
+C:\Users\JHONJIJMOSES\Documents\Programs\C SHARP\Stock\Stock\obj\Debug\net10.0\Stock.AssemblyInfo.cs
+C:\Users\JHONJIJMOSES\Documents\Programs\C SHARP\Stock\Stock\obj\Debug\net10.0\Stock.csproj.CoreCompileInputs.cache
+C:\Users\JHONJIJMOSES\Documents\Programs\C SHARP\Stock\Stock\bin\Debug\net10.0\Stock.exe
+C:\Users\JHONJIJMOSES\Documents\Programs\C SHARP\Stock\Stock\bin\Debug\net10.0\Stock.deps.json
+C:\Users\JHONJIJMOSES\Documents\Programs\C SHARP\Stock\Stock\bin\Debug\net10.0\Stock.runtimeconfig.json
+C:\Users\JHONJIJMOSES\Documents\Programs\C SHARP\Stock\Stock\bin\Debug\net10.0\Stock.dll
+C:\Users\JHONJIJMOSES\Documents\Programs\C SHARP\Stock\Stock\bin\Debug\net10.0\Stock.pdb
+C:\Users\JHONJIJMOSES\Documents\Programs\C SHARP\Stock\Stock\obj\Debug\net10.0\Stock.dll
+C:\Users\JHONJIJMOSES\Documents\Programs\C SHARP\Stock\Stock\obj\Debug\net10.0\refint\Stock.dll
+C:\Users\JHONJIJMOSES\Documents\Programs\C SHARP\Stock\Stock\obj\Debug\net10.0\Stock.pdb
+C:\Users\JHONJIJMOSES\Documents\Programs\C SHARP\Stock\Stock\obj\Debug\net10.0\Stock.genruntimeconfig.cache
+C:\Users\JHONJIJMOSES\Documents\Programs\C SHARP\Stock\Stock\obj\Debug\net10.0\ref\Stock.dll
